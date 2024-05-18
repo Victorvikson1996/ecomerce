@@ -14,6 +14,7 @@ Welcome to the React E-Commerce Course where you'll build an e-commerce web appl
   - [Checkout Process](#checkout-process)
 - [Additional Resources](#additional-resources)
 - [Contributing](#contributing)
+- [Fake API](https://fakestoreapi.com/)
 
 ## Prerequisites
 
